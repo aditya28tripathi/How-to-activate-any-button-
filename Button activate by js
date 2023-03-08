@@ -1,0 +1,4 @@
+  document.getElementById("mainBtn").addEventListener("click", redirectFunction);
+    function redirectFunction(){
+                window.location.href = "payment.html";
+            }
